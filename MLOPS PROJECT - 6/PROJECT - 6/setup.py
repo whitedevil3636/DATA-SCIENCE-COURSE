@@ -9,7 +9,9 @@ setup(
     author = "Sudhanshu",
     author_email= "abc@gmail.com",
     description="MLOPS PROJECT",
+
     packages=find_packages(),
+    
     install_requires = requirements,
     python_requires = ">=3.7"
 )
